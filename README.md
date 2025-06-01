@@ -1,100 +1,74 @@
-# Hello there 👋
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<p align="center">
+<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+</p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
+- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
+- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animal), Silicon Valley & startups
+- 👯 We can connect to play some games of Chess ♟
+- ⚡ Fun fact: Je connais un peu le français
+- 🧑‍💻 Tech I work on :
 
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+</p>
 
-class SoftwareEngineer:
+---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+<!--START_SECTION:waka-->
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+<!--END_SECTION:waka-->
 
+⏳ **Year Progress** { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 40.56 % as on ⏰ 28-May-2025
 
-me = SoftwareEngineer()
-me.say_hi()
-```
+---
 
-## 📝 Blogs
-
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
-
-### 📔 Latest Blog posts
-
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
-- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
-- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
-- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
+- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
+- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
+- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
+- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://apoorvtyagi.tech/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops)
+- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
 <!-- BLOG-POST-LIST:END -->
 
-## 🔧 Technologies & Tools
+▶ [... view more](https://apoorvtyagi.tech/)
 
-**Cloud Services:**
+---
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
-![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
-![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
-![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
-![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
-![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
-![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
-![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
-![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
-
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-
-
-**Tools and Services:**
-
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
-<!-- ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>A professional typist types fast and types great amount of words daily. If we measure this as distance, than it will become 12.6 miles a day for the fingers of the typist to cover each day.</i>
+<!--ENDS_HERE_QUOTE_README-->
 </a>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
+---
 
-## 🏆 GitHub Trophies
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
-
-<!-- ## 👨‍💻 This week, I spent my time on:
-
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
