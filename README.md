@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Design Tools" width="55" height="55" title="Design Tools"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="55" height="55" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" title="CSS3"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="55" height="55" title="Bootstrap"/>
 </p>
 
