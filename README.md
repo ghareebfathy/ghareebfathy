@@ -1,74 +1,100 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+# Hello there 👋
 
-<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## 📝 Blogs
+
+- Personal website and blog: https://zhenye-na.github.io/
+- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
+- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+
+### 📔 Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
+- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
+- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
+- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
+- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
+<!-- BLOG-POST-LIST:END -->
+
+## 🔧 Technologies & Tools
+
+**Cloud Services:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
+![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
+![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
+![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
+![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
+![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
+![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
+![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
+![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
+
+**Programming Languages:**
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+
+
+**Tools and Services:**
+
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a>
-<a href="mailto:i@blackcater.dev">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> -->
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
-<a href="https://leetcode-cn.com/u/blackcater/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
-<br />
-<br />
+<!-- ## 👨‍💻 This week, I spent my time on:
 
-Hi, I'm Elon Tang, a frontend engineer from China 🇨🇳. Dedicated to being a fullstack engineer.
-
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
-
-## ✏️ Recent Blog
-
-- <a href='http://www.blackcater.win/2019/05-18/let-your-static-page-support-https' target='_blank'>让你的静态页面支持 https</a> - 2019-05-18
-- <a href='http://www.blackcater.win/2019/01-01/javascript-engine-shapes-ics' target='_blank'>JavaScript引擎基础：形与行内缓存（翻译）</a> - 2019-05-01
-- <a href='http://www.blackcater.win/2019/04-09/iview-usage-experience' target='_blank'>iview 使用经验总结</a> - 2019-04-09
-- <a href='http://www.blackcater.win/2019/03-01/deploy-your-own-npm-registry' target='_blank'>搭建私有npm镜像</a> - 2019-03-01
-- <a href='http://www.blackcater.win/2019/02-08/mini-program-usage-experience-for-finger' target='_blank'>“Finger 音乐课堂”小程序开发总结</a> - 2019-02-08
-
-<!-- blog_plugin_start -->
-
-<!-- blog_plugin_end -->
-
-<!-- github_plugin_start -->
-
-## ⛳️ Project Release
-
-- <a href='https://github.com/blackcater/blackcater/releases/tag/v1.0.4' target='_blank'>blackcater@v1.0.4</a> - 2021-05-04
-  <br/> Support pre-release.
-- <a href='https://github.com/blackcater/tailwind-plugin-tokens/releases/tag/3.2.2' target='_blank'>tailwind-plugin-tokens@3.2.2</a> - 2024-09-26
-  <br/> Release 3.2.2
-- <a href='https://github.com/blackcater-archive/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>unisite@v0.1.0-alpha.3<sup>pre-release</sup></a> - 2021-04-29
-  <br/> Migrate to windicss.
-- <a href='https://github.com/blackcater/gatsby-plugin-windicss/releases/tag/0.1.0' target='_blank'>gatsby-plugin-windicss@0.1.0</a> - 2021-05-14
-  <br/> Support windicss@3
-- <a href='https://github.com/blackcater/LeetCodeCN-Dark/releases/tag/v1.4.3' target='_blank'>LeetCodeCN-Dark@v1.4.3</a> - 2021-02-07
-
-<!-- github_plugin_end -->
-
-<!-- wakatime_plugin_start -->
-
-## 🌗 Weekly Development Breakdown
-
-
-<!-- wakatime_plugin_end -->
-
-**Languages and Tools:**
-
-<p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
-</p>
-
-<!-- badge_plugin_start -->
-
----
-
-<a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=blackcater&color=000000"></a>
-<a href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
-
-<!-- badge_plugin_end -->
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
